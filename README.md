@@ -31,12 +31,4 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpjain803&show_icons=true&theme=default" alt="Sankalp's GitHub stats" />
-</p>
-
----
-
 *Let’s build something impactful together!*
